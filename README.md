@@ -1,2 +1,2 @@
 # nove-uloziste
-tuto vetev urcite zamitnout
+tuto vetev urcite zamitnout nebo ne
