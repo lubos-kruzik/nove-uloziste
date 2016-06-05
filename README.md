@@ -1,2 +1,3 @@
 # nove-uloziste
-slouzi ke studiu
+slouzi k zabave
+ale hlavne ke studiu
