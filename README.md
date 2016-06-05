@@ -1,2 +1,2 @@
 # nove-uloziste
-tuto vetev zamitnout
+tuto vetev urcite zamitnout
