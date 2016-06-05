@@ -1,2 +1,2 @@
 # nove-uloziste
-tuto vetev urcite zamitnout nebo ne
+finalni verze
