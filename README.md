@@ -1,2 +1,2 @@
 # nove-uloziste
-slouzi ke studiu
+slouzi k zabave
